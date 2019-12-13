@@ -5,6 +5,7 @@ brew 'npm'
 brew 'node'
 brew 'mas'
 
+cask 'antigen'
 cask 'atom'
 cask 'brackets'
 cask 'flux'
@@ -21,7 +22,6 @@ cask 'vagrant'
 cask 'vagrant-manager'
 brew 'docker'
 brew 'docker-machine'
-brew 'antigen'
 
 
 mas 'Numbers', id: 409203825
